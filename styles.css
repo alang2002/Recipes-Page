@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+body {
+  text-align: center;
+}
+h1 {
+  font-family: 'Lobster';
+  font-size: 45px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Raleway';
+}
+img {
+  width: 25%;
+  height: 25%;
+}
