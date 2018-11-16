@@ -12,12 +12,13 @@ h1 {
 }
 h2 {
   font-weight: bold;
-  font-size: 35px;
+  font-size: 45px;
   font-family: 'Raleway';
 }
 img {
   width: 25%;
   height: 25%;
+  border: 2px solid;
 }
 table.center {
   margin-left: auto;
@@ -33,6 +34,7 @@ table {
 }
 th {
   background-color: rgb(101, 99, 100);
+  font-size: 30px;
 }
 td {
   background-color: rgb(136, 147, 145);
